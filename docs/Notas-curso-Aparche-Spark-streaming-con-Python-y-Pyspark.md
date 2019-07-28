@@ -50,7 +50,7 @@ cambiar ~/.bash_profile y ~/.zshrc
 
     export PYSPARK_PYTHON=python3
 
-En el repositorio del proyecto de ejemplo  ejecutar:
+En el repositorio del proyecto de ejemplo (code/python-spark-tutorial) ejecutar:
 
     spark-submit rdd/WordCount.py
 

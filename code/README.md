@@ -7,6 +7,7 @@ Contiene ejemplos de codigo para apache spark, por ahora solo en JAVA y en Pytho
 
 ## Python
 - python-spark-tutorial: es un fork del proyecto de estudio del curso de apache spark [https://www.udemy.com/aparche-spark-con-python-y-pyspark](https://www.udemy.com/aparche-spark-con-python-y-pyspark) es un submodulo en este repositorio pero, el origen es un fork en caso de que el repositorio original desaparesca 
+- python-spark-curso1: es un respositorio con los programas que realice mientras seguia el curso [https://www.udemy.com/aparche-spark-con-python-y-pyspark](https://www.udemy.com/aparche-spark-con-python-y-pyspark)
 
 ## Java
 - apache-spark-ejemplos: es un proyecto de cuatro ejemplos basicos de Apache Spark inspirados en la documentacion de Spark y el curso de Iñigo Serrano [https://www.youtube.com/playlist?list=PLrb1e2Mp6N_vEvxanaPfttq8qgSAAXTlm](https://www.youtube.com/playlist?list=PLrb1e2Mp6N_vEvxanaPfttq8qgSAAXTlm).
